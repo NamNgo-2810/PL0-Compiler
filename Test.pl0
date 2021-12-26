@@ -1,0 +1,11 @@
+PROGRAM VIDU123456789;
+VAR x, y, z;
+BEGIN
+x := 12637;
+x10 := 19;
+IF x > 10 THEN
+	x := 10 * 20 + 30;
+ELSE
+	x := 20;
+CALL ABC;
+END.
