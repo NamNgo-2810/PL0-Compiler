@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "..\Scanner\pttv.h"
+#include "pttv.h"
 
 extern TokenType Token;
 extern int lineNo, colNo;
